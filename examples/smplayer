@@ -1,0 +1,2 @@
+#!/bin/bash
+wslrun "/mnt/c/Program Files (x86)/SMPlayer/smplayer.exe" "$@"  
